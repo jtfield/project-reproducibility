@@ -25,6 +25,8 @@ You should also explain the steps to take in order to run the analysis for the f
 Generally, explain the how and why of each step of the analysis.
 If you are are reading this on Github, you can see that its prefered format for a README file is `.md`, for `markdown`. This means that the file has been written using the markdown syntax to format the document in the nice way it is presented on the web. There are quite a few markup languages, and all of them allow us to give properties to plain text, such as formatting, highlights, hyperlinks, and other interactive features. Go to the pencil logo on the upper right corner of the document to look at the syntax of this .md file. It is not hard to interpret, so you can probably figure out how to write your own markdown README file in no time.  Go here for more details on [basic](https://www.markdownguide.org/basic-syntax/ "basic syntax markdown guide") and advanced syntax of a markdown document.
 
+*****
+
 ## The data-raw folder
 
 Here goes your original data, before cleaning up.
@@ -51,6 +53,7 @@ Contains your cleaned up data. Data files should be names with something that ma
 
 This contains all files for your figures.
 
+*****
 ## A docs folder
 
 This contains your reports.
